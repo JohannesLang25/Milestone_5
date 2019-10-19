@@ -1,0 +1,27 @@
+---
+title: "Milestone 5"
+author: "Johannes Lang, Carine Hajjar"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<h1> About </h1>
+
+
+<h3> Research Question </h3>
+
+Harvard College prides itself on its mission of diversity and inclusion. The official website states, “Harvard's commitment to diversity in all forms is rooted in our fundamental belief that engaging with unfamiliar ideas, perspectives, cultures, and people creates the conditions for dramatic and meaningful growth.” Harvard believes students learn the most when they engage with students from different backgrounds, perspectives, and identities. How is the university holding up to the standard it sets for itself? To what extent do students form close connections to people different from themselves? Using data from students about their networks, we study the degree of self-segregation that takes place in students’ social networks. 
+
+<h3> Research Design </h3>
+
+Our data on friend group composition comes from a survey taken by around 80 Eliot House residents. Respondents were asked to fill out information about themselves as well as their four closest friends or acquaintances at Harvard pertaining to ethnicity, background, legacy status, immigration status, extracurricular activities, areas of studies, etc. 
+
+<h3> Data Visualization </h3>
+
+We display the observed distributions of friend groups from different backgrounds with what we would expect if factors like racial or religious background were completely uncorrelated with friend group selection. To that end, we look at data that the Crimson has compiled for each class. We explore the level of self-segregation at Harvard by comparing the composition of students’ friend groups to the overall diversity of Harvard students along the variables of gender, class year, extracurricular and academic, national, rural/urban, racial, religious and political background as well as athlete, first-generation, and legacy status.
+
+
+
